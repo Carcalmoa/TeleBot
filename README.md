@@ -1,5 +1,5 @@
 # TeleBot
-Chatbot para los estudiante de nuestra escuela de Telecomunicaciones
+Chatbot para los estudiante de nuestra escuela de Telecomunicaciones basado en similitud semántica.
 
 ## Autores
 - [Carlos Calvo Moa](https://github.com/Carcalmoa)
